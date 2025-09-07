@@ -195,7 +195,7 @@
       ],
       "settings": {
         "full_width": true,
-        "remove_vertical_spacing": false,
+        "remove_vertical_spacing": true,
         "remove_horizontal_spacing": false,
         "background": "",
         "background_gradient": "",
@@ -485,48 +485,6 @@
         "desktop_row_height": 290,
         "mobile_row_height": 150,
         "background": "",
-        "background_gradient": ""
-      }
-    },
-    "slideshow_dLUE7z": {
-      "type": "slideshow",
-      "blocks": {
-        "image_PEj6YP": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ingredients_de_la_poudre_capillaire.webp",
-            "mobile_image": "shopify://shop_images/ingredients_de_la_poudre_capillaire.webp",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_PEj6YP"
-      ],
-      "name": "Slideshow",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -1019,7 +977,6 @@
     "before_after_image_QtLKh7",
     "media_grid_ctg6dp",
     "media_grid_eaBUin",
-    "slideshow_dLUE7z",
     "video_ncncwE",
     "rich_text_MMCPrq",
     "text_with_icons_H3Gidz",
