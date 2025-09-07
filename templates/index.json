@@ -132,7 +132,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 11,
-        "background": "#fffdf7",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
@@ -196,7 +196,7 @@
         "reduce_width": false,
         "desktop_row_height": 300,
         "mobile_row_height": 170,
-        "background": "#fffdf7",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": ""
       }
     },
