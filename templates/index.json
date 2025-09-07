@@ -50,11 +50,70 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "rich_text_X9HmVG": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_wnW6iG": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h2>La poudre capillaire Namilka Store en vidéo</h2>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_wnW6iG"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "ugc_video_carousel_CLwUgF": {
       "type": "ugc-video-carousel",
+      "blocks": {
+        "video_teQQ84": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/6716c8208d5746d98923eec559828164.mp4",
+            "caption": "Vidéo client"
+          }
+        },
+        "video_36iTEX": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/842069d9dfa043bb8528ed06ff0276cd.mp4",
+            "caption": "Vidéo client"
+          }
+        },
+        "video_kpAEyB": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/92b49634cbbc455abfb43cf30c8bba95.mp4",
+            "caption": "Vidéo client"
+          }
+        },
+        "video_yt4B6M": {
+          "type": "video",
+          "settings": {
+            "video_url": "",
+            "caption": "Vidéo client"
+          }
+        }
+      },
+      "block_order": [
+        "video_teQQ84",
+        "video_36iTEX",
+        "video_kpAEyB",
+        "video_yt4B6M"
+      ],
       "name": "Carousel Vidéos UGC",
       "settings": {
-        "title": "Avis en vidéo",
+        "title": "",
         "title_color": "#111111",
         "title_size": 26,
         "background_color": "#f4f7fc",
@@ -742,6 +801,7 @@
   },
   "order": [
     "slideshow",
+    "rich_text_X9HmVG",
     "ugc_video_carousel_CLwUgF",
     "scrolling-text",
     "media_grid_tT6TzV",
