@@ -147,19 +147,6 @@
         "text_color": ""
       }
     },
-    "custom_liquid_zcrypk": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": true,
-        "liquid": "<div class=\"responsive-image-wrapper\">\n  <style>\n    /* Par défaut, cacher la section */\n    .responsive-image-wrapper {\n      display: none;\n    }\n\n    /* Afficher la section seulement sur les écrans de taille mobile */\n    @media (max-width: 768px) {\n      .responsive-image-wrapper {\n        display: block;\n      }\n    }\n  </style>\n\n  <a href=\"https://cdn.shopify.com/s/files/1/0976/6092/8339/files/ingredients_de_la_poudre_capillaire.webp?v=1753719059\" target=\"_self\">\n    <img class=\"image-mobile lazy-image loaded\" src=\"https://cdn.shopify.com/s/files/1/0976/6092/8339/files/ingredients_de_la_poudre_capillaire.webp?v=1753719059\" data-src=\"https://cdn.shopify.com/s/files/1/0976/6092/8339/files/ingredients_de_la_poudre_capillaire.webp?v=1753719059\" data-srcset=\"https://cdn.shopify.com/s/files/1/0976/6092/8339/files/ingredients_de_la_poudre_capillaire.webp?v=1753719059 828w,\n                     https://cdn.shopify.com/s/files/1/0976/6092/8339/files/ingredients_de_la_poudre_capillaire.webp?v=1753719059 414w\" data-sizes=\"(max-width: 414px) 414px, 828px\" alt=\"\" width=\"1000\" height=\"1000\" loading=\"lazy\" decoding=\"async\" srcset=\"https://cdn.shopify.com/s/files/1/0976/6092/8339/files/ingredients_de_la_poudre_capillaire.webp?v=1753719059 828w,\n                     https://cdn.shopify.com/s/files/1/0976/6092/8339/files/ingredients_de_la_poudre_capillaire.webp?v=1753719059 414w\" sizes=\"(max-width: 414px) 414px, 828px\">\n  </a>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "rich_text_PHfHUy": {
       "type": "rich-text",
       "blocks": {
@@ -251,6 +238,19 @@
         "padding_bottom": 40,
         "thumbnail_width": 220,
         "show_arrows": true
+      }
+    },
+    "custom_liquid_zcrypk": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div class=\"responsive-image-wrapper\">\n  <style>\n    /* Par défaut, cacher la section */\n    .responsive-image-wrapper {\n      display: none;\n    }\n\n    /* Afficher la section seulement sur les écrans de taille mobile */\n    @media (max-width: 768px) {\n      .responsive-image-wrapper {\n        display: block;\n      }\n    }\n  </style>\n\n  <a href=\"https://cdn.shopify.com/s/files/1/0976/6092/8339/files/ingredients_de_la_poudre_capillaire.webp?v=1753719059\" target=\"_self\">\n    <img class=\"image-mobile lazy-image loaded\" src=\"https://cdn.shopify.com/s/files/1/0976/6092/8339/files/ingredients_de_la_poudre_capillaire.webp?v=1753719059\" data-src=\"https://cdn.shopify.com/s/files/1/0976/6092/8339/files/ingredients_de_la_poudre_capillaire.webp?v=1753719059\" data-srcset=\"https://cdn.shopify.com/s/files/1/0976/6092/8339/files/ingredients_de_la_poudre_capillaire.webp?v=1753719059 828w,\n                     https://cdn.shopify.com/s/files/1/0976/6092/8339/files/ingredients_de_la_poudre_capillaire.webp?v=1753719059 414w\" data-sizes=\"(max-width: 414px) 414px, 828px\" alt=\"\" width=\"1000\" height=\"1000\" loading=\"lazy\" decoding=\"async\" srcset=\"https://cdn.shopify.com/s/files/1/0976/6092/8339/files/ingredients_de_la_poudre_capillaire.webp?v=1753719059 828w,\n                     https://cdn.shopify.com/s/files/1/0976/6092/8339/files/ingredients_de_la_poudre_capillaire.webp?v=1753719059 414w\" sizes=\"(max-width: 414px) 414px, 828px\">\n  </a>\n</div>",
+        "background": "#fffefa",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "before_after_image_QtLKh7": {
@@ -852,9 +852,9 @@
     "main",
     "popup_image_block_ijR4Fk",
     "custom_liquid_9gnc7W",
-    "custom_liquid_zcrypk",
     "rich_text_PHfHUy",
     "ugc_video_carousel_8rKMDp",
+    "custom_liquid_zcrypk",
     "before_after_image_QtLKh7",
     "media_grid_ctg6dp",
     "faq_BkgFKL",
