@@ -270,7 +270,7 @@
         "before_text": "AVANT",
         "after_text": "APRÈS",
         "drag_initial_position": 50,
-        "background": "",
+        "background": "#fffdf7",
         "background_gradient": "",
         "text_color": "",
         "before_text_color": "#ffffff",
@@ -383,7 +383,7 @@
         "reduce_width": false,
         "desktop_row_height": 290,
         "mobile_row_height": 150,
-        "background": "",
+        "background": "#fffdf7",
         "background_gradient": ""
       }
     },
