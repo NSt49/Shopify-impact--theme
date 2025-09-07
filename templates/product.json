@@ -170,6 +170,20 @@
             "caption": "Vidéo client"
           }
         },
+        "video_bkBt98": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/ddfb49e6a8e143578c165f49396e10ef.mp4",
+            "caption": "Vidéo client"
+          }
+        },
+        "video_eAAmNc": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/6716c8208d5746d98923eec559828164.mp4",
+            "caption": "Vidéo client"
+          }
+        },
         "video_i3zxcz": {
           "type": "video",
           "disabled": true,
@@ -177,27 +191,13 @@
             "video_url": "https://cdn.shopify.com/videos/c/o/v/4be0bd3e505542ab9ae32320a1566894.mp4",
             "caption": "Vidéo client"
           }
-        },
-        "video_bkBt98": {
-          "type": "video",
-          "settings": {
-            "video_url": "",
-            "caption": "Vidéo client"
-          }
-        },
-        "video_eAAmNc": {
-          "type": "video",
-          "settings": {
-            "video_url": "",
-            "caption": "Vidéo client"
-          }
         }
       },
       "block_order": [
         "video_aVNFQK",
-        "video_i3zxcz",
         "video_bkBt98",
-        "video_eAAmNc"
+        "video_eAAmNc",
+        "video_i3zxcz"
       ],
       "name": "Carousel Vidéos UGC",
       "settings": {
