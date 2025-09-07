@@ -334,7 +334,7 @@
           "settings": {
             "image": "shopify://shop_images/ingredients_de_la_poudre_capillaire.webp",
             "title": "",
-            "heading_tag": "h4",
+            "heading_tag": "h1",
             "link_url": "",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
