@@ -566,7 +566,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
@@ -618,7 +618,7 @@
       "name": "Media with text",
       "settings": {
         "full_width": true,
-        "spacing": "none"
+        "spacing": "small"
       }
     },
     "faq_BkgFKL": {
