@@ -147,6 +147,58 @@
         "text_color": ""
       }
     },
+    "175727310250bef606": {
+      "type": "apps",
+      "blocks": {
+        "moast_carousel_NbF4nt": {
+          "type": "shopify://apps/moast/blocks/carousel/1ac7547b-5443-446c-868c-7fab4566ee16",
+          "settings": {
+            "dynamic": false,
+            "feed": "",
+            "feed_usage": "back_up",
+            "buy_button_action": "add",
+            "sort": "video",
+            "slide_type": "cards",
+            "autoplay_mode": "all",
+            "slide_size": "250",
+            "border": 0,
+            "border_color": "linear-gradient(to right, #833ab4, #fd1d1d, #fcb045)",
+            "slide_rounding": "20",
+            "slide_spacing": 16,
+            "padding_top": 40,
+            "pagination": "overlay",
+            "show_likes": true,
+            "show_share": true,
+            "default_mute": true,
+            "show_products": false,
+            "show_captions": false,
+            "show_player_captions": false,
+            "autoscroll_duration": 0,
+            "click_action": "fullscreen",
+            "float_location": "bottom_right",
+            "float_size": "medium",
+            "show_reviews": false,
+            "custom_css": ""
+          }
+        }
+      },
+      "block_order": [
+        "moast_carousel_NbF4nt"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "rich_text_PHfHUy": {
       "type": "rich-text",
       "blocks": {
@@ -429,6 +481,21 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": ""
+      }
+    },
+    "video_ncncwE": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/7d365142551d4c64ae5759a88a54c73f.HD-1080p-7.2Mbps-54707660.mp4",
+        "external_video_url": "",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "rich_text_MMCPrq": {
@@ -897,12 +964,14 @@
     "main",
     "popup_image_block_ijR4Fk",
     "custom_liquid_9gnc7W",
+    "175727310250bef606",
     "rich_text_PHfHUy",
     "ugc_video_carousel_8rKMDp",
     "custom_liquid_zcrypk",
     "before_after_image_QtLKh7",
     "media_grid_ctg6dp",
     "slideshow_dLUE7z",
+    "video_ncncwE",
     "rich_text_MMCPrq",
     "text_with_icons_H3Gidz",
     "faq_BkgFKL",
