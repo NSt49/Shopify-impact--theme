@@ -134,14 +134,6 @@
         "margin_bottom": 5
       }
     },
-    "espacement_Gw98Lf": {
-      "type": "espacement",
-      "name": "Espacement",
-      "settings": {
-        "spacer_height": "1px",
-        "spacer_color": "#e9f0f7"
-      }
-    },
     "custom_liquid_9gnc7W": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -195,7 +187,7 @@
       ],
       "settings": {
         "full_width": true,
-        "remove_vertical_spacing": false,
+        "remove_vertical_spacing": true,
         "remove_horizontal_spacing": false,
         "background": "",
         "background_gradient": "",
@@ -971,7 +963,6 @@
   "order": [
     "main",
     "popup_image_block_ijR4Fk",
-    "espacement_Gw98Lf",
     "custom_liquid_9gnc7W",
     "175727310250bef606",
     "rich_text_PHfHUy",
