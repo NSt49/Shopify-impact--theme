@@ -170,6 +170,13 @@
             "caption": "Vidéo client"
           }
         },
+        "video_m4qYQk": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/6716c8208d5746d98923eec559828164.mp4",
+            "caption": "Vidéo client"
+          }
+        },
         "video_bkBt98": {
           "type": "video",
           "settings": {
@@ -195,6 +202,7 @@
       },
       "block_order": [
         "video_aVNFQK",
+        "video_m4qYQk",
         "video_bkBt98",
         "video_eAAmNc",
         "video_i3zxcz"
