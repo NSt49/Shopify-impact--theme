@@ -168,10 +168,18 @@
             "video_url": "https://cdn.shopify.com/videos/c/o/v/842069d9dfa043bb8528ed06ff0276cd.mp4",
             "caption": "Vidéo client"
           }
+        },
+        "video_i3zxcz": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/4be0bd3e505542ab9ae32320a1566894.mp4",
+            "caption": "Vidéo client"
+          }
         }
       },
       "block_order": [
-        "video_aVNFQK"
+        "video_aVNFQK",
+        "video_i3zxcz"
       ],
       "name": "Carousel Vidéos UGC",
       "settings": {
