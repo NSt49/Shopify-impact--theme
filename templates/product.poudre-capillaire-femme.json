@@ -538,6 +538,21 @@
         "heading_gradient": ""
       }
     },
+    "video_pimwkL": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/7d365142551d4c64ae5759a88a54c73f.HD-1080p-7.2Mbps-54707660.mp4",
+        "external_video_url": "",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq_BkgFKL": {
       "type": "faq",
       "blocks": {
@@ -904,6 +919,7 @@
     "custom_liquid_8q86TC",
     "1754858949ee3b842b",
     "images_with_text_scrolling_TEQwwD",
+    "video_pimwkL",
     "faq_BkgFKL",
     "media_with_text_yKiHja",
     "meditrust_tableau_UiURp3"
