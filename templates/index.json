@@ -651,6 +651,7 @@
     },
     "espacement_Tx7xTc": {
       "type": "espacement",
+      "disabled": true,
       "name": "Espacement",
       "settings": {
         "spacer_height": "1px",
@@ -684,7 +685,7 @@
         "impact_text_style": "fill",
         "text_divider": "none",
         "impact_text_size_ratio": 1,
-        "background": "#f0f0f0",
+        "background": "#fcf8f5",
         "background_gradient": "",
         "heading_text_color": "",
         "heading_gradient": "",
