@@ -553,6 +553,41 @@
         "overlay_opacity": 0
       }
     },
+    "media_with_text_yKiHja": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_yB4g9P": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Femme_qui_tient_pot_de_poudre_capillaire.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Cheveux au top, ou remboursé",
+            "content": "<p><strong>Chez Namilka Store, nous croyons en notre poudre capillaire autant que vous allez l’aimer.</strong><br/>C’est pourquoi nous proposons une garantie sérénité de 30 jours : essayez-la, et si elle ne vous convient pas, nous vous remboursons intégralement, conformément à notre politique de retour et de remboursement.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_yB4g9P"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
     "faq_BkgFKL": {
       "type": "faq",
       "blocks": {
@@ -644,41 +679,6 @@
         "button_text_color": "",
         "accordion_background": "#ffffff",
         "accordion_text_color": ""
-      }
-    },
-    "media_with_text_yKiHja": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_yB4g9P": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Femme_qui_tient_pot_de_poudre_capillaire.webp",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Cheveux au top, ou remboursé",
-            "content": "<p><strong>Chez Namilka Store, nous croyons en notre poudre capillaire autant que vous allez l’aimer.</strong><br/>C’est pourquoi nous proposons une garantie sérénité de 30 jours : essayez-la, et si elle ne vous convient pas, nous vous remboursons intégralement, conformément à notre politique de retour et de remboursement.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_yB4g9P"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": true,
-        "spacing": "none"
       }
     },
     "meditrust_tableau_UiURp3": {
@@ -920,8 +920,8 @@
     "1754858949ee3b842b",
     "images_with_text_scrolling_TEQwwD",
     "video_pimwkL",
-    "faq_BkgFKL",
     "media_with_text_yKiHja",
+    "faq_BkgFKL",
     "meditrust_tableau_UiURp3"
   ]
 }
