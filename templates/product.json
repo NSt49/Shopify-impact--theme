@@ -543,7 +543,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#fffdf7",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
@@ -604,7 +604,7 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "#fffdf7",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
