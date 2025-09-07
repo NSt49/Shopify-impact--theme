@@ -163,17 +163,17 @@
     "ugc_video_carousel_8rKMDp": {
       "type": "ugc-video-carousel",
       "blocks": {
-        "video_aVNFQK": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://cdn.shopify.com/videos/c/o/v/842069d9dfa043bb8528ed06ff0276cd.mp4",
-            "caption": "Vidéo client"
-          }
-        },
         "video_m4qYQk": {
           "type": "video",
           "settings": {
             "video_url": "https://cdn.shopify.com/videos/c/o/v/6716c8208d5746d98923eec559828164.mp4",
+            "caption": "Vidéo client"
+          }
+        },
+        "video_aVNFQK": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/842069d9dfa043bb8528ed06ff0276cd.mp4",
             "caption": "Vidéo client"
           }
         },
@@ -201,8 +201,8 @@
         }
       },
       "block_order": [
-        "video_aVNFQK",
         "video_m4qYQk",
+        "video_aVNFQK",
         "video_bkBt98",
         "video_eAAmNc",
         "video_i3zxcz"
