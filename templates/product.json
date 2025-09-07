@@ -171,7 +171,6 @@
         "heading_HdG3Px",
         "richtext_B7TB8H"
       ],
-      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -229,7 +228,6 @@
         "video_eAAmNc",
         "video_i3zxcz"
       ],
-      "disabled": true,
       "name": "Carousel Vidéos UGC",
       "settings": {
         "title": "",
