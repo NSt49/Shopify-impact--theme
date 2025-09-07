@@ -649,6 +649,14 @@
         "text_color": ""
       }
     },
+    "espacement_Tx7xTc": {
+      "type": "espacement",
+      "name": "Espacement",
+      "settings": {
+        "spacer_height": "1px",
+        "spacer_color": "#f0f0f0"
+      }
+    },
     "impact_text_UdX9YC": {
       "type": "impact-text",
       "blocks": {
@@ -817,6 +825,7 @@
     "scrolling_text_QcPPGG",
     "custom_liquid_ayELGx",
     "custom_liquid_46DDEY",
+    "espacement_Tx7xTc",
     "impact_text_UdX9YC",
     "1754690930ffd30b09",
     "faq"
