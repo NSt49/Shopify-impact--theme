@@ -449,45 +449,6 @@
         "background_gradient": ""
       }
     },
-    "media_grid_eaBUin": {
-      "type": "media-grid",
-      "blocks": {
-        "image_cDQkwA": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ingredients_de_la_poudre_capillaire.webp",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_cDQkwA"
-      ],
-      "name": "Media grid",
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 170,
-        "background": "",
-        "background_gradient": ""
-      }
-    },
     "175468758540b49798": {
       "type": "apps",
       "blocks": {
@@ -562,6 +523,45 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "media_grid_eaBUin": {
+      "type": "media-grid",
+      "blocks": {
+        "image_cDQkwA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ingredients_de_la_poudre_capillaire.webp",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_cDQkwA"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 170,
+        "background": "",
+        "background_gradient": ""
       }
     },
     "rich_text_MMCPrq": {
@@ -1009,10 +1009,10 @@
     "custom_liquid_zcrypk",
     "before_after_image_QtLKh7",
     "media_grid_ctg6dp",
-    "media_grid_eaBUin",
-    "175468758540b49798",
     "rich_text_LQtrbV",
     "video_ncncwE",
+    "175468758540b49798",
+    "media_grid_eaBUin",
     "rich_text_MMCPrq",
     "text_with_icons_H3Gidz",
     "faq_BkgFKL",
