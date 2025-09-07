@@ -165,6 +165,7 @@
       "blocks": {
         "heading_HdG3Px": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "La poudre capillaire Namilka Store en vidéo",
             "heading_tag": "h1",
@@ -174,7 +175,6 @@
         },
         "richtext_B7TB8H": {
           "type": "richtext",
-          "disabled": true,
           "settings": {
             "content": "<h2>La poudre capillaire Namilka Store en vidéo</h2>"
           }
