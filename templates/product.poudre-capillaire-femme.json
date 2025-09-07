@@ -355,6 +355,99 @@
         "text_color": ""
       }
     },
+    "faq_BkgFKL": {
+      "type": "faq",
+      "blocks": {
+        "item_yCMgKp": {
+          "type": "item",
+          "settings": {
+            "title": "Qu'est-ce qu'une poudre capillaire ?",
+            "content": "<p>Notre poudre capillaire est une solution express pour densifier visuellement les cheveux clairsemés. Composée de fibres naturelles, souvent issues du coton, cette poudre s'accroche instantanément aux cheveux existants pour combler les zones dégarnies. En quelques secondes, elle donne l’illusion d’une chevelure plus dense, sans passer par la case greffe ou traitements médicaux.</p>"
+          }
+        },
+        "item_UdyUxc": {
+          "type": "item",
+          "settings": {
+            "title": "Et si je n’ai plus du tout de cheveux à certaines zones ?",
+            "content": "<p>Même quand le cuir chevelu paraît nu, il reste souvent un léger duvet ou des cheveux très fins invisibles à l’œil nu. Les fibres capillaires s’y fixent facilement et permettent de redonner du volume visuellement. Résultat : les zones clairsemées sont estompées, et la chevelure paraît plus fournie, même en cas de calvitie avancée.</p>"
+          }
+        },
+        "item_wN44ng": {
+          "type": "item",
+          "settings": {
+            "title": "Comment bien appliquer la poudre capillaire ?",
+            "content": "<p>Sur cheveux propres et bien secs, saupoudrez directement la poudre sur les zones clairsemées. Répartissez-la de manière uniforme en tapotant légèrement avec les doigts ou un applicateur adapté. Pour une tenue renforcée, vous pouvez terminer par une légère brume fixatrice. Le résultat est visible en quelques secondes seulement.</p>"
+          }
+        },
+        "item_WGtjHQ": {
+          "type": "item",
+          "settings": {
+            "title": "Comment enlever la poudre capillaire de ses cheveux ?",
+            "content": "<p>Il vous suffit de laver vos cheveux avec votre shampoing habituel : la poudre disparaît complètement dès le premier lavage</p>"
+          }
+        },
+        "item_AUycHM": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que c’est sans risque pour la peau et les cheveux ?",
+            "content": "<p>La formule est douce et respectueuse du cuir chevelu. Composée à 99 % d’ingrédients d’origine naturelle, elle ne contient ni substances irritantes ni composants agressifs. Elle convient parfaitement aux peaux sensibles et peut être utilisée au quotidien sans inquiétude.</p>"
+          }
+        },
+        "item_MWG4eP": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça tient vraiment longtemps ?",
+            "content": "<p>Oui, l'effet tient sans bouger du matin au soir, même en cas de chaleur, de sueur ou d’humidité. Une application suffit pour la journée, et un pot permet en moyenne une trentaine d’utilisations.</p>"
+          }
+        },
+        "item_4VMcJa": {
+          "type": "item",
+          "settings": {
+            "title": "Comment est-ce que fonctionne la poudre capillaire ?",
+            "content": "<p>Les fibres capillaires sont chargées électrostatiquement pour se fixer naturellement aux cheveux présents, même les plus fins ou clairs. Elles s’accrochent à la fibre capillaire et viennent combler les zones clairsemées en créant un effet de densité immédiat. Grâce à cette fixation naturelle, la tenue est optimale : rien ne bouge, même en cas de pluie, de sport ou de coup de vent.</p>"
+          }
+        },
+        "item_fbjJXx": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison et les conditions de retour ?",
+            "content": "<p>La livraison est gratuite et rapide ! Nous expédions les colis sous 24 à 48h, et la livraison se fait sous 6 à 8 jours ouvrés.</p><p>Si le produit ne vous convient pas, vous disposez d’un délai de 30 jours après réception pour effectuer un retour.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_yCMgKp",
+        "item_UdyUxc",
+        "item_wN44ng",
+        "item_WGtjHQ",
+        "item_AUycHM",
+        "item_MWG4eP",
+        "item_4VMcJa",
+        "item_fbjJXx"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "<h3>Tout savoir sur la poudre capillaire Namilka Store</h3>",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "#ffffff",
+        "accordion_text_color": ""
+      }
+    },
     "media_grid_DxQdqf": {
       "type": "media-grid",
       "blocks": {
@@ -622,99 +715,6 @@
         "spacing": "small"
       }
     },
-    "faq_BkgFKL": {
-      "type": "faq",
-      "blocks": {
-        "item_yCMgKp": {
-          "type": "item",
-          "settings": {
-            "title": "Qu'est-ce qu'une poudre capillaire ?",
-            "content": "<p>Notre poudre capillaire est une solution express pour densifier visuellement les cheveux clairsemés. Composée de fibres naturelles, souvent issues du coton, cette poudre s'accroche instantanément aux cheveux existants pour combler les zones dégarnies. En quelques secondes, elle donne l’illusion d’une chevelure plus dense, sans passer par la case greffe ou traitements médicaux.</p>"
-          }
-        },
-        "item_UdyUxc": {
-          "type": "item",
-          "settings": {
-            "title": "Et si je n’ai plus du tout de cheveux à certaines zones ?",
-            "content": "<p>Même quand le cuir chevelu paraît nu, il reste souvent un léger duvet ou des cheveux très fins invisibles à l’œil nu. Les fibres capillaires s’y fixent facilement et permettent de redonner du volume visuellement. Résultat : les zones clairsemées sont estompées, et la chevelure paraît plus fournie, même en cas de calvitie avancée.</p>"
-          }
-        },
-        "item_wN44ng": {
-          "type": "item",
-          "settings": {
-            "title": "Comment bien appliquer la poudre capillaire ?",
-            "content": "<p>Sur cheveux propres et bien secs, saupoudrez directement la poudre sur les zones clairsemées. Répartissez-la de manière uniforme en tapotant légèrement avec les doigts ou un applicateur adapté. Pour une tenue renforcée, vous pouvez terminer par une légère brume fixatrice. Le résultat est visible en quelques secondes seulement.</p>"
-          }
-        },
-        "item_WGtjHQ": {
-          "type": "item",
-          "settings": {
-            "title": "Comment enlever la poudre capillaire de ses cheveux ?",
-            "content": "<p>Il vous suffit de laver vos cheveux avec votre shampoing habituel : la poudre disparaît complètement dès le premier lavage</p>"
-          }
-        },
-        "item_AUycHM": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que c’est sans risque pour la peau et les cheveux ?",
-            "content": "<p>La formule est douce et respectueuse du cuir chevelu. Composée à 99 % d’ingrédients d’origine naturelle, elle ne contient ni substances irritantes ni composants agressifs. Elle convient parfaitement aux peaux sensibles et peut être utilisée au quotidien sans inquiétude.</p>"
-          }
-        },
-        "item_MWG4eP": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que ça tient vraiment longtemps ?",
-            "content": "<p>Oui, l'effet tient sans bouger du matin au soir, même en cas de chaleur, de sueur ou d’humidité. Une application suffit pour la journée, et un pot permet en moyenne une trentaine d’utilisations.</p>"
-          }
-        },
-        "item_4VMcJa": {
-          "type": "item",
-          "settings": {
-            "title": "Comment est-ce que fonctionne la poudre capillaire ?",
-            "content": "<p>Les fibres capillaires sont chargées électrostatiquement pour se fixer naturellement aux cheveux présents, même les plus fins ou clairs. Elles s’accrochent à la fibre capillaire et viennent combler les zones clairsemées en créant un effet de densité immédiat. Grâce à cette fixation naturelle, la tenue est optimale : rien ne bouge, même en cas de pluie, de sport ou de coup de vent.</p>"
-          }
-        },
-        "item_fbjJXx": {
-          "type": "item",
-          "settings": {
-            "title": "Quels sont les délais de livraison et les conditions de retour ?",
-            "content": "<p>La livraison est gratuite et rapide ! Nous expédions les colis sous 24 à 48h, et la livraison se fait sous 6 à 8 jours ouvrés.</p><p>Si le produit ne vous convient pas, vous disposez d’un délai de 30 jours après réception pour effectuer un retour.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_yCMgKp",
-        "item_UdyUxc",
-        "item_wN44ng",
-        "item_WGtjHQ",
-        "item_AUycHM",
-        "item_MWG4eP",
-        "item_4VMcJa",
-        "item_fbjJXx"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "<h3>Tout savoir sur la poudre capillaire Namilka Store</h3>",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "#ffffff",
-        "accordion_text_color": ""
-      }
-    },
     "meditrust_tableau_UiURp3": {
       "type": "meditrust-tableau",
       "blocks": {
@@ -948,6 +948,7 @@
     "rich_text_MMCPrq",
     "text_with_icons_H3Gidz",
     "custom_liquid_zcrypk",
+    "faq_BkgFKL",
     "media_grid_DxQdqf",
     "impact_text_e7YD3R",
     "multiple_images_with_text_GJQMjb",
@@ -956,7 +957,6 @@
     "rich_text_8V4WDi",
     "video_pimwkL",
     "media_with_text_yKiHja",
-    "faq_BkgFKL",
     "meditrust_tableau_UiURp3"
   ]
 }
