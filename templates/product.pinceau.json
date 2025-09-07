@@ -147,6 +147,58 @@
         "text_color": ""
       }
     },
+    "175727484453bee10d": {
+      "type": "apps",
+      "blocks": {
+        "moast_carousel_JcHDjx": {
+          "type": "shopify://apps/moast/blocks/carousel/1ac7547b-5443-446c-868c-7fab4566ee16",
+          "settings": {
+            "dynamic": false,
+            "feed": "default",
+            "feed_usage": "back_up",
+            "buy_button_action": "add",
+            "sort": "video",
+            "slide_type": "cards",
+            "autoplay_mode": "all",
+            "slide_size": "250",
+            "border": 0,
+            "border_color": "linear-gradient(to right, #833ab4, #fd1d1d, #fcb045)",
+            "slide_rounding": "20",
+            "slide_spacing": 16,
+            "padding_top": 40,
+            "pagination": "overlay",
+            "show_likes": true,
+            "show_share": true,
+            "default_mute": true,
+            "show_products": false,
+            "show_captions": false,
+            "show_player_captions": false,
+            "autoscroll_duration": 0,
+            "click_action": "fullscreen",
+            "float_location": "bottom_right",
+            "float_size": "medium",
+            "show_reviews": false,
+            "custom_css": ""
+          }
+        }
+      },
+      "block_order": [
+        "moast_carousel_JcHDjx"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "faq_BkgFKL": {
       "type": "faq",
       "blocks": {
@@ -759,12 +811,13 @@
     "main",
     "popup_image_block_ijR4Fk",
     "custom_liquid_9gnc7W",
-    "faq_BkgFKL",
-    "custom_liquid_zcrypk",
+    "175727484453bee10d",
     "before_after_image_QtLKh7",
     "media_grid_ctg6dp",
+    "custom_liquid_zcrypk",
     "rich_text_MMCPrq",
     "text_with_icons_H3Gidz",
+    "faq_BkgFKL",
     "multiple_images_with_text_GJQMjb",
     "175468758540b49798",
     "meditrust_tableau_UiURp3"
