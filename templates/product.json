@@ -160,6 +160,40 @@
         "text_color": ""
       }
     },
+    "rich_text_PHfHUy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HdG3Px": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_B7TB8H": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h2>La poudre capillaire Namilka Store en vidéo</h2>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HdG3Px",
+        "richtext_B7TB8H"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#fffefa",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "ugc_video_carousel_8rKMDp": {
       "type": "ugc-video-carousel",
       "blocks": {
@@ -209,7 +243,7 @@
       ],
       "name": "Carousel Vidéos UGC",
       "settings": {
-        "title": "La poudre capillaire Namilka Store en vidéo",
+        "title": "",
         "title_color": "#111111",
         "title_size": 26,
         "background_color": "#fffefa",
@@ -819,6 +853,7 @@
     "popup_image_block_ijR4Fk",
     "custom_liquid_9gnc7W",
     "custom_liquid_zcrypk",
+    "rich_text_PHfHUy",
     "ugc_video_carousel_8rKMDp",
     "before_after_image_QtLKh7",
     "media_grid_ctg6dp",
