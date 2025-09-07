@@ -134,6 +134,14 @@
         "margin_bottom": 5
       }
     },
+    "espacement_Gw98Lf": {
+      "type": "espacement",
+      "name": "Espacement",
+      "settings": {
+        "spacer_height": "1px",
+        "spacer_color": "#e9f0f7"
+      }
+    },
     "custom_liquid_9gnc7W": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -187,7 +195,7 @@
       ],
       "settings": {
         "full_width": true,
-        "remove_vertical_spacing": true,
+        "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
         "background": "",
         "background_gradient": "",
@@ -441,6 +449,45 @@
         "background_gradient": ""
       }
     },
+    "media_grid_eaBUin": {
+      "type": "media-grid",
+      "blocks": {
+        "image_cDQkwA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ingredients_de_la_poudre_capillaire.webp",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_cDQkwA"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
     "slideshow_dLUE7z": {
       "type": "slideshow",
       "blocks": {
@@ -481,39 +528,6 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": ""
-      }
-    },
-    "rich_text_cQmWwg": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_hRJwBp": {
-          "type": "heading",
-          "settings": {
-            "text": "Waterproof et longue-tenue",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_tgjq6x": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Peu importe que vous soyez à la salle, sous la chaleur, ou dehors toute la journée. La poudre capillaire Namilka Store reste en place</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_hRJwBp",
-        "richtext_tgjq6x"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "video_ncncwE": {
@@ -996,6 +1010,7 @@
   "order": [
     "main",
     "popup_image_block_ijR4Fk",
+    "espacement_Gw98Lf",
     "custom_liquid_9gnc7W",
     "175727310250bef606",
     "rich_text_PHfHUy",
@@ -1003,8 +1018,8 @@
     "custom_liquid_zcrypk",
     "before_after_image_QtLKh7",
     "media_grid_ctg6dp",
+    "media_grid_eaBUin",
     "slideshow_dLUE7z",
-    "rich_text_cQmWwg",
     "video_ncncwE",
     "rich_text_MMCPrq",
     "text_with_icons_H3Gidz",
