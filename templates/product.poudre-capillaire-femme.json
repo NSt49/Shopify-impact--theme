@@ -215,6 +215,7 @@
         "image_dGQ8Rp",
         "image_XRNLai"
       ],
+      "disabled": true,
       "name": "Media grid",
       "settings": {
         "full_width": true,
