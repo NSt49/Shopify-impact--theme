@@ -538,6 +538,39 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_8V4WDi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Wydpje": {
+          "type": "heading",
+          "settings": {
+            "text": "Waterproof et tenue longue-durée",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_jkxhDc": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Que vous soyez à la salle, sous la chaleur ou dehors toute la journée, la poudre capillaire Namilka Store reste en place</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Wydpje",
+        "richtext_jkxhDc"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "video_pimwkL": {
       "type": "video",
       "name": "Video",
@@ -919,6 +952,7 @@
     "custom_liquid_8q86TC",
     "1754858949ee3b842b",
     "images_with_text_scrolling_TEQwwD",
+    "rich_text_8V4WDi",
     "video_pimwkL",
     "media_with_text_yKiHja",
     "faq_BkgFKL",
