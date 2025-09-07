@@ -63,6 +63,7 @@
       "block_order": [
         "richtext_wnW6iG"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -111,6 +112,7 @@
         "video_kpAEyB",
         "video_yt4B6M"
       ],
+      "disabled": true,
       "name": "Carousel Vidéos UGC",
       "settings": {
         "title": "",
@@ -227,7 +229,7 @@
         "impact_text_style": "fill",
         "text_divider": "none",
         "impact_text_size_ratio": 1,
-        "background": "#fffdf7",
+        "background": "#ffffff",
         "background_gradient": "",
         "heading_text_color": "",
         "heading_gradient": "",
