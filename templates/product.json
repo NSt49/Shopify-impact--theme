@@ -34,6 +34,7 @@
         },
         "price_kYXi9D": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
@@ -343,32 +344,6 @@
         "background_gradient": ""
       }
     },
-    "rich_text_MMCPrq": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_ziX4ij": {
-          "type": "heading",
-          "settings": {
-            "text": "La confiance dont vos cheveux ont besoin",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_ziX4ij"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "faq_BkgFKL": {
       "type": "faq",
       "blocks": {
@@ -460,6 +435,32 @@
         "button_text_color": "",
         "accordion_background": "#ffffff",
         "accordion_text_color": ""
+      }
+    },
+    "rich_text_MMCPrq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ziX4ij": {
+          "type": "heading",
+          "settings": {
+            "text": "La confiance dont vos cheveux ont besoin",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_ziX4ij"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "text_with_icons_H3Gidz": {
