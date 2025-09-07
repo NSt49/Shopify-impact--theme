@@ -50,79 +50,56 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "rich_text_X9HmVG": {
-      "type": "rich-text",
+    "1757273894cc23528c": {
+      "type": "apps",
       "blocks": {
-        "richtext_wnW6iG": {
-          "type": "richtext",
+        "moast_carousel_7VKhPT": {
+          "type": "shopify://apps/moast/blocks/carousel/1ac7547b-5443-446c-868c-7fab4566ee16",
           "settings": {
-            "content": "<h2>La poudre capillaire Namilka Store en vidéo</h2>"
+            "dynamic": false,
+            "feed": "",
+            "feed_usage": "back_up",
+            "buy_button_action": "add",
+            "sort": "video",
+            "slide_type": "cards",
+            "autoplay_mode": "all",
+            "slide_size": "250",
+            "border": 0,
+            "border_color": "linear-gradient(to right, #833ab4, #fd1d1d, #fcb045)",
+            "slide_rounding": "20",
+            "slide_spacing": 16,
+            "padding_top": 40,
+            "pagination": "overlay",
+            "show_likes": true,
+            "show_share": true,
+            "default_mute": true,
+            "show_products": false,
+            "show_captions": false,
+            "show_player_captions": false,
+            "autoscroll_duration": 0,
+            "click_action": "fullscreen",
+            "float_location": "bottom_right",
+            "float_size": "medium",
+            "show_reviews": false,
+            "custom_css": ""
           }
         }
       },
       "block_order": [
-        "richtext_wnW6iG"
+        "moast_carousel_7VKhPT"
       ],
-      "disabled": true,
-      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
         "background": "",
         "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "ugc_video_carousel_CLwUgF": {
-      "type": "ugc-video-carousel",
-      "blocks": {
-        "video_teQQ84": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://cdn.shopify.com/videos/c/o/v/6716c8208d5746d98923eec559828164.mp4",
-            "caption": "Vidéo client"
-          }
-        },
-        "video_36iTEX": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://cdn.shopify.com/videos/c/o/v/842069d9dfa043bb8528ed06ff0276cd.mp4",
-            "caption": "Vidéo client"
-          }
-        },
-        "video_kpAEyB": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://cdn.shopify.com/videos/c/o/v/92b49634cbbc455abfb43cf30c8bba95.mp4",
-            "caption": "Vidéo client"
-          }
-        },
-        "video_yt4B6M": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://cdn.shopify.com/videos/c/o/v/ddfb49e6a8e143578c165f49396e10ef.mp4",
-            "caption": "Vidéo client"
-          }
-        }
-      },
-      "block_order": [
-        "video_teQQ84",
-        "video_36iTEX",
-        "video_kpAEyB",
-        "video_yt4B6M"
-      ],
-      "disabled": true,
-      "name": "Carousel Vidéos UGC",
-      "settings": {
-        "title": "",
-        "title_color": "#111111",
-        "title_size": 26,
-        "background_color": "rgba(0,0,0,0)",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "thumbnail_width": 220,
-        "show_arrows": true
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
       }
     },
     "scrolling-text": {
@@ -812,8 +789,7 @@
   },
   "order": [
     "slideshow",
-    "rich_text_X9HmVG",
-    "ugc_video_carousel_CLwUgF",
+    "1757273894cc23528c",
     "scrolling-text",
     "media_grid_tT6TzV",
     "impact_text_qdpb6q",
