@@ -334,7 +334,7 @@
         "before_text": "AVANT",
         "after_text": "APRÈS",
         "drag_initial_position": 50,
-        "background": "#fffdf7",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "before_text_color": "#ffffff",
@@ -447,7 +447,7 @@
         "reduce_width": false,
         "desktop_row_height": 290,
         "mobile_row_height": 150,
-        "background": "#fffdf7",
+        "background": "#ffffff",
         "background_gradient": ""
       }
     },
@@ -573,7 +573,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
