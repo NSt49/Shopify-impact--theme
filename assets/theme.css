@@ -9899,14 +9899,3 @@ split-lines {
   height: 50px !important;
   line-height: 50px !important;
 }
-/* Always keep the header on top */
-.shopify-section-header,
-.shopify-section-header-sticky,
-header.header,
-.header,
-.header-wrapper,
-.header.is-sticky {
-  position: sticky;
-  top: 0;
-  z-index: 9999 !important;
-}
