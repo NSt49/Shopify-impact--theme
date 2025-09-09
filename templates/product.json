@@ -134,6 +134,14 @@
         "margin_bottom": 5
       }
     },
+    "espacement_BHcFxY": {
+      "type": "espacement",
+      "name": "Espacement",
+      "settings": {
+        "spacer_height": "40px",
+        "spacer_color": "#ffffff"
+      }
+    },
     "espacement_Gw98Lf": {
       "type": "espacement",
       "name": "Espacement",
@@ -526,7 +534,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -996,6 +1004,7 @@
   "order": [
     "main",
     "popup_image_block_ijR4Fk",
+    "espacement_BHcFxY",
     "espacement_Gw98Lf",
     "custom_liquid_9gnc7W",
     "175727310250bef606",
