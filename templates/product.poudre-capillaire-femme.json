@@ -238,14 +238,14 @@
         "full_width": true,
         "subheading": "",
         "title": "",
-        "content": "<h3>Tout savoir sur la poudre capillaire Namilka Store</h3>",
+        "content": "<h2>Tout savoir sur la poudre capillaire Namilka Store</h2>",
         "team_avatar_width": 160,
         "support_hours": "",
         "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -347,6 +347,45 @@
         "review_button_text_color": "#ffffff"
       }
     },
+    "media_grid_DxQdqf": {
+      "type": "media-grid",
+      "blocks": {
+        "image_N4aNx6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ingredients_de_la_poudre_capillaire.webp",
+            "title": "",
+            "heading_tag": "h1",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 4,
+            "desktop_row_span": 3,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_N4aNx6"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 170,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
     "rich_text_MMCPrq": {
       "type": "rich-text",
       "blocks": {
@@ -432,45 +471,6 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "media_grid_DxQdqf": {
-      "type": "media-grid",
-      "blocks": {
-        "image_N4aNx6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ingredients_de_la_poudre_capillaire.webp",
-            "title": "",
-            "heading_tag": "h1",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 4,
-            "desktop_row_span": 3,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_N4aNx6"
-      ],
-      "name": "Media grid",
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 170,
-        "background": "",
-        "background_gradient": ""
       }
     },
     "impact_text_e7YD3R": {
