@@ -173,6 +173,7 @@
             "feed": "",
             "feed_usage": "back_up",
             "sort": "video",
+            "header": "",
             "slide_type": "cards",
             "autoplay_mode": "all",
             "slide_size": "250",
@@ -182,7 +183,8 @@
             "slide_spacing": 16,
             "padding_top": 40,
             "pagination": "overlay",
-            "show_products": false,
+            "alignment": "center",
+            "product_cards": "none",
             "show_captions": false,
             "autoscroll_duration": 0,
             "click_action": "fullscreen",
@@ -207,101 +209,6 @@
         "review_header_text_color": "#000000",
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
-      }
-    },
-    "rich_text_PHfHUy": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_HdG3Px": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "text": "La poudre capillaire Namilka Store en vidéo",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_B7TB8H": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h2>La poudre capillaire Namilka Store en vidéo</h2>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_HdG3Px",
-        "richtext_B7TB8H"
-      ],
-      "disabled": true,
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#fffdf7",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "ugc_video_carousel_8rKMDp": {
-      "type": "ugc-video-carousel",
-      "blocks": {
-        "video_m4qYQk": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://cdn.shopify.com/videos/c/o/v/6716c8208d5746d98923eec559828164.mp4",
-            "caption": "Vidéo client"
-          }
-        },
-        "video_aVNFQK": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://cdn.shopify.com/videos/c/o/v/842069d9dfa043bb8528ed06ff0276cd.mp4",
-            "caption": "Vidéo client"
-          }
-        },
-        "video_bkBt98": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://cdn.shopify.com/videos/c/o/v/92b49634cbbc455abfb43cf30c8bba95.mp4",
-            "caption": "Vidéo client"
-          }
-        },
-        "video_eAAmNc": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://cdn.shopify.com/videos/c/o/v/ddfb49e6a8e143578c165f49396e10ef.mp4",
-            "caption": "Vidéo client"
-          }
-        },
-        "video_i3zxcz": {
-          "type": "video",
-          "disabled": true,
-          "settings": {
-            "video_url": "https://cdn.shopify.com/videos/c/o/v/4be0bd3e505542ab9ae32320a1566894.mp4",
-            "caption": "Vidéo client"
-          }
-        }
-      },
-      "block_order": [
-        "video_m4qYQk",
-        "video_aVNFQK",
-        "video_bkBt98",
-        "video_eAAmNc",
-        "video_i3zxcz"
-      ],
-      "disabled": true,
-      "name": "Carousel Vidéos UGC",
-      "settings": {
-        "title": "",
-        "title_color": "#111111",
-        "title_size": 26,
-        "background_color": "#fffdf7",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "thumbnail_width": 220,
-        "show_arrows": true
       }
     },
     "custom_liquid_zcrypk": {
@@ -1008,8 +915,6 @@
     "espacement_Gw98Lf",
     "custom_liquid_9gnc7W",
     "175727310250bef606",
-    "rich_text_PHfHUy",
-    "ugc_video_carousel_8rKMDp",
     "custom_liquid_zcrypk",
     "before_after_image_QtLKh7",
     "media_grid_ctg6dp",
