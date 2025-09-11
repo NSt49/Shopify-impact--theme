@@ -119,6 +119,7 @@
       "block_order": [
         "moast_carousel_7VKhPT"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": true,
