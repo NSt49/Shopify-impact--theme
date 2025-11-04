@@ -138,7 +138,7 @@
           "type": "text",
           "settings": {
             "title": "Contact",
-            "content": "<p>contact@namilka-store.com</p><h3>07 80 90 39 85</h3>",
+            "content": "<p>contact@namilka-store.com</p>",
             "enable_follow_on_shop": true
           }
         }
